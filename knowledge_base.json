@@ -1,0 +1,42 @@
+{
+  "what is a bank account?": {
+    "patterns": ["What is a bank account?"],
+    "responses": ["A bank account is a place to store your money safely. It allows you to deposit and withdraw money, and to write checks and make payments."]
+  },
+  "what are the different types of bank accounts?": {
+    "patterns": ["What are the different types of bank accounts?"],
+    "responses": ["There are many different types of bank accounts, including checking accounts, savings accounts, and money market accounts. Each type of account has its own advantages and disadvantages."]
+  },
+  "how do I open a bank account?": {
+    "patterns": ["How do I open a bank account?"],
+    "responses": ["To open a bank account, you will need to provide some basic information, such as your name, address, and Social Security number. You may also need to make a deposit."]
+  },
+  "what are the benefits of having a bank account?": {
+    "patterns": ["What are the benefits of having a bank account?"],
+    "responses": ["There are many benefits to having a bank account, including:\n- You can keep your money safe.\n- You can easily access your money when you need it.\n- You can earn interest on your savings.\n- You can make and receive payments easily.\n- You can build your credit history."]
+  },
+  "what is the difference between a checking account and a savings account?": {
+    "patterns": ["What is the difference between a checking account and a savings account?"],
+    "responses": ["A checking account is designed for everyday transactions, such as writing checks and making payments. A savings account is designed for saving money and earning interest."]
+  },
+  "what is a debit card?": {
+    "patterns": ["What is a debit card?"],
+    "responses": ["A debit card is a type of payment card that is linked to your checking account. When you use a debit card to make a purchase, the money is deducted from your checking account immediately."]
+  },
+  "what is a credit card?": {
+    "patterns": ["What is a credit card?"],
+    "responses": ["A credit card is a type of payment card that allows you to borrow money from the bank to make purchases. You can then repay the money to the bank over time, with interest."]
+  },
+  "what is an ATM?": {
+    "patterns": ["What is an ATM?"],
+    "responses": ["An ATM stands for automated teller machine. It is a machine that allows you to deposit and withdraw money from your bank account without having to visit a bank branch."]
+  },
+  "what is a check?": {
+    "patterns": ["What is a check?"],
+    "responses": ["A check is a written order to your bank to pay a certain amount of money to a person or company. Checks are used to make payments for goods and services, and to transfer money between bank accounts."]
+  },
+  "what is online banking?": {
+    "patterns": ["What is online banking?"],
+    "responses": ["Online banking is a service that allows you to access your bank account and manage your finances online. You can use online banking to deposit and withdraw money, transfer money, pay bills, and view your account statements."]
+  }
+}
